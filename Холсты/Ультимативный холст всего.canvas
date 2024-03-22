@@ -1,12 +1,16 @@
 {
 	"nodes":[
-		{"id":"8aabbd1a87d35af7","x":-360,"y":-280,"width":640,"height":320,"color":"5","type":"group","label":"Город Тьмы"},
-		{"id":"1bd27ec827d1a708","x":-340,"y":-40,"width":160,"height":60,"color":"5","type":"file","file":"Текста/Ликёр.md"},
-		{"id":"f422e1c7261715bf","x":-160,"y":-160,"width":140,"height":60,"color":"5","type":"file","file":"Текста/Горе.md"},
-		{"id":"c700a2762ddc11af","x":20,"y":-240,"width":230,"height":50,"color":"5","type":"file","file":"Текста/Бог Тьмы.md"}
+		{"id":"8aabbd1a87d35af7","type":"group","x":-360,"y":-280,"width":640,"height":320,"color":"5","label":"Город Тьмы"},
+		{"id":"d47d474e372aba18","type":"group","x":-360,"y":100,"width":540,"height":180,"color":"3","label":"Город Свет"},
+		{"id":"1bd27ec827d1a708","type":"file","file":"Текста/Ликёр.md","x":-340,"y":-40,"width":160,"height":60,"color":"5"},
+		{"id":"f422e1c7261715bf","type":"file","file":"Текста/Горе.md","x":-160,"y":-160,"width":140,"height":60,"color":"5"},
+		{"id":"c700a2762ddc11af","type":"file","file":"Текста/Бог Тьмы.md","x":20,"y":-240,"width":230,"height":50,"color":"5"},
+		{"id":"556d5d23d02074fe","type":"file","file":"Текста/Ринка.md","x":-340,"y":180,"width":180,"height":60,"color":"3"},
+		{"id":"d6dc9053166b8928","type":"file","file":"Текста/Рой.md","x":40,"y":120,"width":120,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"43204db5c2550ae9","fromNode":"1bd27ec827d1a708","fromSide":"top","toNode":"f422e1c7261715bf","toSide":"left","fromEnd":"arrow","color":"5","label":"Ученик/Учитель"},
-		{"id":"91096696fbab9ff1","fromNode":"f422e1c7261715bf","fromSide":"top","toNode":"c700a2762ddc11af","toSide":"left","fromEnd":"arrow","color":"5","label":"Бог/Помощник"}
+		{"id":"91096696fbab9ff1","fromNode":"f422e1c7261715bf","fromSide":"top","toNode":"c700a2762ddc11af","toSide":"left","fromEnd":"arrow","color":"5","label":"Бог/Помощник"},
+		{"id":"79ae783001ecf795","fromNode":"556d5d23d02074fe","fromSide":"right","toNode":"d6dc9053166b8928","toSide":"left","fromEnd":"arrow","color":"3","label":"Торгаш/Рынок"}
 	]
 }
