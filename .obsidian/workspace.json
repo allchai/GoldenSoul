@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Текста/Ринка.md",
+                "file": "Текста/Рой.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Текста/Ринка.md",
-                "mode": "source",
+                "file": "Текста/Рой.md",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Текста/Ринка.md",
+                "file": "Текста/Рой.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Текста/Ринка.md",
+                "file": "Текста/Рой.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Текста/Ринка.md"
+                "file": "Текста/Рой.md"
               }
             }
           }
@@ -160,15 +160,16 @@
   },
   "active": "fdd7ae0aefd1ec5f",
   "lastOpenFiles": [
-    "Холсты/Ультимативный холст всего.canvas",
-    "Текста/Рой.md",
     "Текста/Ринка.md",
-    "Шаблоны/Персонажи.md",
-    "Файлы/Ринка.jpg",
     "Текста/Ликёр.md",
+    "Текста/Горе.md",
+    "Шаблоны/Персонажи.md",
+    "Текста/Рой.md",
+    "Файлы/Рой.jpg",
+    "Холсты/Ультимативный холст всего.canvas",
+    "Файлы/Ринка.jpg",
     "Объяснение шаблонов.md",
     "Текста/Бог Тьмы.md",
-    "Текста/Горе.md",
     "Текста/Данте.md",
     "Файлы/Ликёр и доберманы.jpg",
     "Файлы/временная линия.png",
