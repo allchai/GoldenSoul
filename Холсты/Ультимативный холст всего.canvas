@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8aabbd1a87d35af7","x":-360,"y":-280,"width":640,"height":320,"color":"5","type":"group","label":"Город Тьмы"},
+		{"id":"1bd27ec827d1a708","x":-340,"y":-40,"width":160,"height":60,"color":"5","type":"file","file":"Текста/Ликёр.md"},
+		{"id":"f422e1c7261715bf","x":-160,"y":-160,"width":140,"height":60,"color":"5","type":"file","file":"Текста/Горе.md"},
+		{"id":"c700a2762ddc11af","x":20,"y":-240,"width":230,"height":50,"color":"5","type":"file","file":"Текста/Бог Тьмы.md"}
+	],
+	"edges":[
+		{"id":"43204db5c2550ae9","fromNode":"1bd27ec827d1a708","fromSide":"top","toNode":"f422e1c7261715bf","toSide":"left","fromEnd":"arrow","color":"5","label":"Ученик/Учитель"},
+		{"id":"91096696fbab9ff1","fromNode":"f422e1c7261715bf","fromSide":"top","toNode":"c700a2762ddc11af","toSide":"left","fromEnd":"arrow","color":"5","label":"Бог/Помощник"}
+	]
+}

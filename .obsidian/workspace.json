@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "53e7d72e80d2bba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "47418afcb3c26024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94d85c9eff6294f1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Холсты/Ультимативный холст всего.canvas",
+                "viewState": {
+                  "x": 129,
+                  "y": -101,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45ed525152a21f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "00701ba024b507f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6267a5a5b558e20c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8787f0e71e19cff7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df85cbd566a3bc71",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b655a2cfa8906c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da4814b85766b88b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Холсты/Ультимативный холст всего.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b35e28e4e121342",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Холсты/Ультимативный холст всего.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de003f606710c87e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2629ebd3f2f663d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Холсты/Ультимативный холст всего.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "94d85c9eff6294f1",
+  "lastOpenFiles": [
+    "Текста/Бог Тьмы.md",
+    "Текста/Данте.md",
+    "Холсты/Ультимативный холст всего.canvas",
+    "Текста/Горе.md",
+    "Текста/Ликёр.md",
+    "Шаблоны/Персонажи.md",
+    "Файлы/временная линия.png",
+    "Файлы/Ликёр предыстория.jpg",
+    "Файлы/Ликёр.jpg",
+    "Объяснение шаблонов.md",
+    "Холсты",
+    "Welcome.md",
+    "Текста",
+    "Шаблоны",
+    "Файлы"
+  ]
+}
