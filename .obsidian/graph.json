@@ -5,8 +5,51 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Персонаж  ",
+      "color": {
+        "a": 1,
+        "rgb": 14804245
+      }
+    },
+    {
+      "query": "tag:#Мир  ",
+      "color": {
+        "a": 1,
+        "rgb": 2940360
+      }
+    },
+    {
+      "query": "tag:#Бог  ",
+      "color": {
+        "a": 1,
+        "rgb": 1582562
+      }
+    },
+    {
+      "query": "tag:#Раса  ",
+      "color": {
+        "a": 1,
+        "rgb": 12126473
+      }
+    },
+    {
+      "query": "tag:#Город  ",
+      "color": {
+        "a": 1,
+        "rgb": 13112505
+      }
+    },
+    {
+      "query": "tag:#Время  ",
+      "color": {
+        "a": 1,
+        "rgb": 4562697
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 0.7132754626224432,
+  "close": false
 }
