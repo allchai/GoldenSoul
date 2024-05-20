@@ -5,5 +5,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Текста",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Файлы"
+  "attachmentFolderPath": "Файлы",
+  "promptDelete": false
 }
